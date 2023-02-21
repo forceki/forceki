@@ -16,7 +16,7 @@
 
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceki&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceki&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=forceki&theme=dark&hide_border=false)<br/>
 
 
